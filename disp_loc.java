@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package fre;
-
+//comment
 import javax.swing.table.DefaultTableModel;
 //new comment 2
 /**
